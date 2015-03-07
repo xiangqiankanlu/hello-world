@@ -1,4 +1,4 @@
 # hello-world
-my first project
+哈尔滨工业大学 深圳研究生院
 
-Thanks for your reading!
+自学Test
